@@ -56,7 +56,7 @@ hyperliquid-sentiment-analysis/
 │   └── hyperliquid_trades.csv
 │
 ├── notebooks/
-│   └── sentiment_analysis.ipynb
+│   └── sentiment_analysis(test).ipynb
 │
 ├── src/
 │   ├── preprocessing.py
